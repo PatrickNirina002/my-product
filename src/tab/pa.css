@@ -1,0 +1,31 @@
+table
+{
+margin-left: 200px;
+border-collapse: collapse;
+margin-top:30px;
+}
+td, th ,tr
+{
+border: 1px solid rgb(18, 117, 56);
+width: 50px;
+text-align: center;
+}
+th{
+    background-color: rgb(18, 117, 56);
+}
+.pa
+{
+    background-color: rgb(18, 117, 56);
+}
+.container{
+    width: 850px;
+}
+.sa{
+    margin-left: 800px;
+}
+.ss{
+    border: 1px solid black;
+    width: 240px;
+    height: 50px;
+    margin-left: 700px;
+}
